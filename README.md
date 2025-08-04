@@ -46,4 +46,8 @@ The tree-based models performed exceptionally well, with Random Forest and XGBoo
 - Education-sensitive cognitive testing tools should be developed to ensure fair assessment across different populations.
 - Clinicians should be encouraged to interpret model outputs, not just act on them. Tree-based models provide that interpretability.
 
+- # Medium Article
+
+- https://medium.com/@agbaoyeadedeji78/alzheimers-disease-analysis-using-tree-based-machine-learning-classification-models-23659bab6172
+
 
