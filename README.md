@@ -48,6 +48,6 @@ The tree-based models performed exceptionally well, with Random Forest and XGBoo
 
 - # Medium Article
 
-- https://medium.com/@agbaoyeadedeji78/alzheimers-disease-analysis-using-tree-based-machine-learning-classification-models-23659bab6172
+https://medium.com/@agbaoyeadedeji78/alzheimers-disease-analysis-using-tree-based-machine-learning-classification-models-23659bab6172
 
 
